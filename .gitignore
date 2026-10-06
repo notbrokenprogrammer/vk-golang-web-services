@@ -1,0 +1,14 @@
+# Local build output
+/bin/
+/text-game/text-game
+/text-game/text-game.exe
+*.test
+*.exe
+
+# Coverage reports
+coverage.out
+coverage.html
+
+# Local editor and system files
+.idea/
+.DS_Store
